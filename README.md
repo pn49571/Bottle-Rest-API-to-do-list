@@ -1,6 +1,5 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Project Name}
+
+## Project Name
  Simple web-based ToDo list using Bottle web framework and SQLite
 ## Installation
 Download the Github repository and unzip the compressed folder. Run the python script
@@ -14,6 +13,3 @@ TODO: Write usage instructions
 5. Submit a pull request :D
 ## License
 Open source software
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
